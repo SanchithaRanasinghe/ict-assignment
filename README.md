@@ -1,2 +1,0 @@
-# ict-assignment
-ict assignment
